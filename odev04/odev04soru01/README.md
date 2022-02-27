@@ -24,7 +24,7 @@ GET, POST aşağıdaki görselde görüldüğü gibi postman üzerinden yapılma
 
 
 
-![postman](C:\Users\CSL-5\Desktop\odev04\odev04soru01\sekiller\postman.PNG)
+![postman](sekiller/postman.PNG)
 
 
 
@@ -32,19 +32,19 @@ Yukarıda anlatılmış olan işlemler sonucunda database'deki tablolar aşağı
 
 
 
-![userSQL](C:\Users\CSL-5\Desktop\odev04\odev04soru01\sekiller\userSQL.PNG)
+![userSQL](sekiller/userSQL.PNG)
 
 
 
-![advertSQL](C:\Users\CSL-5\Desktop\odev04\odev04soru01\sekiller\advertSQL.PNG)
+![advertSQL](sekiller/advertSQL.PNG)
 
 
 
-![bannerSQL](C:\Users\CSL-5\Desktop\odev04\odev04soru01\sekiller\bannerSQL.PNG)
+![bannerSQL](sekiller/bannerSQL.PNG)
 
 
 
-![messageSQL](C:\Users\CSL-5\Desktop\odev04\odev04soru01\sekiller\messageSQL.PNG)
+![messageSQL](sekiller/messageSQL.PNG)
 
 
 
