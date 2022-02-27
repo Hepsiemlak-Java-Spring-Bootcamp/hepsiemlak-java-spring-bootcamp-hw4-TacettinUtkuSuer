@@ -12,16 +12,16 @@ Ekran görüntüleri ve SQL database görüntüsü aşağıda yer almaktadır.
 
 
 
-![userEkranGoruntusu](C:\Users\CSL-5\Desktop\odev04\odev04soru02\odev04soru02partA\sekiller\userEkranGoruntusu.PNG)
+![userEkranGoruntusu](sekiller/userEkranGoruntusu.PNG)
 
 
 
-![userSQL](C:\Users\CSL-5\Desktop\odev04\odev04soru02\odev04soru02partA\sekiller\userSQL.PNG)
+![userSQL](sekiller/userSQL.PNG)
 
 
 
-![advertEkranGoruntusu](C:\Users\CSL-5\Desktop\odev04\odev04soru02\odev04soru02partA\sekiller\advertEkranGoruntusu.PNG)
+![advertEkranGoruntusu](sekiller/advertEkranGoruntusu.PNG)
 
 
 
-![advertSQL](C:\Users\CSL-5\Desktop\odev04\odev04soru02\odev04soru02partA\sekiller\advertSQL.PNG)
+![advertSQL](sekiller/advertSQL.PNG)
